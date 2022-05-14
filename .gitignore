@@ -1,0 +1,23 @@
+
+
+dist/
+target/
+!.mvn/wrapper/maven-wrapper.jar
+!**/src/main/**/target/
+!**/src/test/**/target/
+release/
+
+### IntelliJ IDEA ###
+.idea
+*.iws
+*.iml
+*.ipr
+
+### VS Code ###
+.vscode/
+
+### tmp files
+*~
+
+.DS_store
+*/.DS_Store
